@@ -1,0 +1,28 @@
+{
+    "author": "enyab.null@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hexadecimal",
+    "pebble": {
+        "displayName": "Hexadecimal ",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "1b34f864-d2cc-41ee-ba4e-9076469fee8b",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
